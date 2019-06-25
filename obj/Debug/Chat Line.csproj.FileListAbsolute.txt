@@ -1,0 +1,16 @@
+C:\Users\Henrique Vieira\source\repos\Chat Line\bin\Debug\Chat Line.exe.config
+C:\Users\Henrique Vieira\source\repos\Chat Line\bin\Debug\Chat Line.exe
+C:\Users\Henrique Vieira\source\repos\Chat Line\bin\Debug\Chat Line.pdb
+C:\Users\Henrique Vieira\source\repos\Chat Line\bin\Debug\pt-BR\Chat Line.resources.dll
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat Line.csprojAssemblyReference.cache
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat_Line.Login.resources
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat_Line.Properties.Resources.resources
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat_Line.Login.pt-BR.resources
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat Line.csproj.GenerateResource.cache
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat Line.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\pt-BR\Chat Line.resources.dll
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat Line.exe
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat Line.pdb
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat_Line.Cadastrar.resources
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat_Line.FormChatCliente.resources
+C:\Users\Henrique Vieira\source\repos\Chat Line\obj\Debug\Chat_Line.FormChatServidor.resources
